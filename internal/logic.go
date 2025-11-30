@@ -6,6 +6,5 @@ type Input struct {
 }
 
 func Run(input Input) error {
-    // TODO: implement map_affiliate logic
     return nil
 }
